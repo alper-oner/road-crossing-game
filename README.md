@@ -24,3 +24,6 @@
 - If pressed  L, you can see the lane numbers and y-axis coordinates.
 - If pressed R, the game will restart.
 - Time is shown at the top of the screen.
+
+# Example
+![Ekran Alıntısı](https://user-images.githubusercontent.com/36198409/81700785-d2f97300-9471-11ea-8242-1b753042ae94.PNG)
